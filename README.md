@@ -16,13 +16,13 @@ Firmwares de SimpleVESCDisplay listos para diferentes modelos de scooters eléct
 3. Abre el archivo principal `main.ide`.  
 4. Configura los parámetros según tu vehículo:  
    - Voltaje de la batería 
-   <img src="Imagenes/Batery_Config.png" alt="Configuracion" width="300"/>
+   <img src="Imagenes/Batery_Config.png" alt="Configuracion" width="600"/>
     
    - Tamaño de la rueda  
    - Número de imanes  
    - Relación de engranajes si tu motor es con reductor  
    - Otros parámetros importantes para el correcto funcionamiento 
-   <img src="Imagenes/Scooter_Config.png" alt="Configuracion" width="300"/>
+   <img src="Imagenes/Scooter_Config.png" alt="Configuracion" width="600"/>
    
 
 5. Compila y sube el firmware a tu pantalla/display ESP32.  
