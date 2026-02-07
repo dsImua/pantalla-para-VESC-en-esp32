@@ -7,6 +7,7 @@ Firmwares de SimpleVESCDisplay listos para diferentes modelos de scooters eléct
 - [Cecotec](MODELOS\Cecotec)
 - [KuKirin](MODELOS\KuKirin)
 - [Ninebot](MODELOS\Ninebot)
+  
 *(Puedes agregar más modelos según tus adaptaciones)*
 
 **Instrucciones de uso:**  
