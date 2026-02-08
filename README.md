@@ -33,7 +33,3 @@ Firmwares de SimpleVESCDisplay listos para diferentes modelos de scooters eléct
 
 **Licencia:**  
 Revisa la licencia del proyecto original y respeta los términos de uso.
-
----
-
-¡Listo! Con este README.md cualquier usuario puede entender rápidamente qué modelos están disponibles, cómo configurar su firmware y a quién agradecer la adaptación.
