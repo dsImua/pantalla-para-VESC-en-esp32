@@ -28,7 +28,7 @@ Firmwares de SimpleVESCDisplay listos para diferentes modelos de scooters eléct
 5. Compila y sube el firmware a tu pantalla/display ESP32.  
 
 **Notas:**  
-- URL para añadir placa a Arduino IDE: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+- URL para añadir placa a Arduino IDE: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 - Este repositorio es una adaptación del proyecto original [SimpleVescDisplay](https://github.com/NetworkDir/SimpleVescDisplay).  
 - Autor de esta adaptación: *ds.lm.ua*  
 
